@@ -1,9 +1,8 @@
-# 🤖 SPARK: Therapy for Autistic Children Using Robot
+# 🤖 Therapy for Autistic Children Using Robot
 
-**Team ID:** 1190613  
 **College:** St. Joseph’s College of Engineering  
 **Department:** Electronics and Communication Engineering  
-**Project Title:** SPARK – Socially Assistive Robot for Autism Therapy  
+**Project Title:** Therapy for Autistic Children Using Robot
 **Competition:** IICDC 2019  
 
 ---
